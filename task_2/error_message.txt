@@ -1,0 +1,7 @@
+{"restaurantId": 3, "reviewId": 1, "text": "The steak tasted like poop, but the wine was great.", "rating": 4.5, "publishedAt": "2023-07-30T12:45:00.000Z"}
+{"restaurantId": 10, "text": "Awesome spicy chicken wings", "rating": 7, "publishedAt": "2022-10-15T14:20:00.000Z"}
+{"restaurantId": 10, "reviewId": 16, "text": "Great food. Loved their vegan options.", "publishedAt": "2023-06-14T11:30:00.000Z"}
+{"reviewId": 17, "text": "Too expensive for the quality of food.", "rating": 3.5, "publishedAt": "2022-12-12T16:30:00.000Z"}
+{"restaurantId": 13, "reviewId": 23, "text": "Don't go there!! The situation of cleanliness is like a poop.", "rating": 2, "publishedAt": "2023-04-25T14:22:00.000Z"}
+{"restaurantId": 15, "text": "Perfect! I will definitely be back.", "rating": 9.5, "publishedAt": "2023-04-30T19:30:00.000Z"}
+{"restaurantId": 18, "reviewId": 10, "text": "Fracking poop!", "rating": 1, "publishedAt": "2024-01-22T09:17:44Z" }
